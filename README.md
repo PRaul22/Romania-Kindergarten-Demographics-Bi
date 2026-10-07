@@ -20,5 +20,5 @@ This Business Intelligence project utilizes **Tableau** to analyze demographic d
 *   **Data Format:** CSV
 
 ## ⚙️ How to View
-1.  **Static View:** Open the `Proiect_BI_Gradinite.pdf` file directly in your browser or PDF viewer[cite: 13].
+1.  **Static View:** Open the `Proiect_BI_Gradinite.pdf` file directly in your browser or PDF viewer.
 2.  **Interactive View:** To explore the dashboards interactively, download the `Proiect_BI_Gradinite.twbx` file from the `Tableau/` folder and open it using **Tableau Desktop** or the free **Tableau Reader**.
